@@ -1,5 +1,46 @@
 {
   "_base": "https://raw.githubusercontent.com/aliazcaa/We_BDIL/main/",
+  "ekoplo": [
+    "ekoplo/KOPLOBEATS_1_150BPM.wav",
+    "ekoplo/KOPLOBEATS_2_150BPM.wav",
+    "ekoplo/KOPLOBEATS_3_150BPM.wav",
+    "ekoplo/KOPLOBEATS_4_150BPM.wav",
+    "ekoplo/KOPLOBEATS_5_150BPM.wav",
+    "ekoplo/KOPLOBEATS_6_150BPM.wav"
+  ],
+  "fkoplo": [
+    "fkoplo/ELECTRONIC_DANGDUT_MUSIC_128BPM.wav",
+    "fkoplo/NORMAN_KAMARU_TYPE_BEAT_128BPM.wav",
+    "fkoplo/POLY_RYTHM_KOPLO_128BPM.wav",
+    "fkoplo/PSYCHEDELIC_KOPLO_128BPM.wav",
+    "fkoplo/PUNK_ROCK_KOPLO_128BPM.wav"
+  ],
+  "funkkot": [
+    "funkkot/LM - Clap 1.wav",
+    "funkkot/LM - HH 1.wav",
+    "funkkot/LM - Kick 1.wav",
+    "funkkot/LM - Kick 2.wav",
+    "funkkot/LM - Perc - 1.wav",
+    "funkkot/LM - Perc - 2.wav",
+    "funkkot/LM - Snare 1.wav",
+    "funkkot/LM - Snare 2.wav",
+    "funkkot/LM - Snare 3.wav",
+    "funkkot/LM - kick 3.wav",
+    "funkkot/LONG_Cowbell apin17.wav"
+  ],
+  "impact": [
+    "impact/CH-DS HIT Boom 01.wav",
+    "impact/CH-DS HIT Boom 02.wav",
+    "impact/CH-DS HIT Boom 03.wav",
+    "impact/CH-DS HIT Boom 04.wav",
+    "impact/CH-DS HIT Boom 05.wav"
+  ],
+   "koplohook": [
+    "koplohook/BRIGIDAW_150BPM.wav",
+    "koplohook/DIW_150BPM.wav",
+    "koplohook/INDEHOY_150BPM.wav",
+    "koplohook/KURKUR_150BPM.wav"
+  ],
   "melon": [
     "melon/01.wav",
     "melon/02.wav",
